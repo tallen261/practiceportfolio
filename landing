@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Home</title>
+      <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+      <link rel="stylesheet" href="css/lightbox.css">
+      <link rel="stylesheet" type="text/css" href="css/portfolio.css">
+  </head>
+  <body>
+    <div class="container">
+      <nav class="nav navbar-inverse navbar-fixed-top">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <a class="navbar-brand" href="#">
+              <img alt="brand" src="#">
+            </a>
+            <ul>
+              <li>Work</li>
+              <li>Contact</li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+      <div class="row" id="layout">
+        <div class="col-md-12">
+          <div class="col-md-4" id="categories">
+            <a href="images/obama2.jpg" data-lightbox="obama mixtape">
+              <img src="images/obama1.jpg" class="items">
+            </a>
+            <a href="images/obama3.jpg" data-lightbox="obama mixtape"></a>
+          </div>
+
+          <div class="col-md-4" id="categories">
+            <a href="images/jones2.jpg" data-lightbox="fight">
+              <img src="images/jones1.jpg" class="items">
+            </a>
+            <a href="images/jones3.jpg" data-lightbox="fight"></a>
+            <a href="images/jones4.jpg" data-lightbox="fight"></a>
+          </div>
+
+          <div class="col-md-4" id="categories">
+            <a href="images/obama2.jpg" data-lightbox="obama mixtape">
+              <img src="images/obama1.jpg" class="items">
+            </a>
+            <a href="images/obama3.jpg" data-lightbox="obama mixtape"></a>
+          </div>
+        </div>
+      </div>
+      <div class="row" id="layout">
+        <div class="col-md-12">
+          <div class="col-md-4" id="categories">
+            <a href="images/obama2.jpg" data-lightbox="obama mixtape">
+              <img src="images/obama1.jpg" class="items">
+            </a>
+            <a href="images/obama3.jpg" data-lightbox="obama mixtape"></a>
+          </div>
+
+          <div class="col-md-4" id="categories">
+            <a href="images/jones2.jpg" data-lightbox="fight">
+              <img src="images/jones1.jpg" class="items">
+            </a>
+            <a href="images/jones3.jpg" data-lightbox="fight"></a>
+            <a href="images/jones4.jpg" data-lightbox="fight"></a>
+          </div>
+
+          <div class="col-md-4" id="categories">
+            <a href="images/obama2.jpg" data-lightbox="obama mixtape">
+              <img src="images/obama1.jpg" class="items">
+            </a>
+            <a href="images/obama3.jpg" data-lightbox="obama mixtape"></a>
+          </div>
+        </div>
+      </div>
+      <div class="row" id="layout">
+        <div class="col-md-12">
+          <div class="col-md-4" id="categories">
+            <a href="images/obama2.jpg" data-lightbox="obama mixtape">
+              <img src="images/obama1.jpg" class="items">
+            </a>
+            <a href="images/obama3.jpg" data-lightbox="obama mixtape"></a>
+          </div>
+
+          <div class="col-md-4" id="categories">
+            <a href="images/jones2.jpg" data-lightbox="fight">
+              <img src="images/jones1.jpg" class="items">
+            </a>
+            <a href="images/jones3.jpg" data-lightbox="fight"></a>
+            <a href="images/jones4.jpg" data-lightbox="fight"></a>
+          </div>
+
+          <div class="col-md-4" id="categories">
+            <a href="images/obama2.jpg" data-lightbox="obama mixtape">
+              <img src="images/obama1.jpg" class="items">
+            </a>
+            <a href="images/obama3.jpg" data-lightbox="obama mixtape"></a>
+          </div>
+        </div>
+      </div>
+      <footer class="info">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="col-md-4">
+                <h3>About Me</h3>
+                <p></p>
+              </div>
+
+              <div class="col-md-4">
+                <h3>Drop A Line</h3>
+              </div>
+
+              <div class="col-md-4">
+                <h3>Follow Me</h3>
+              </div>
+            </div>
+          </div>
+      </footer>
+    </div>
+  <script src="js/lightbox.js"></script>
+  </body>
+</html>
